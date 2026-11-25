@@ -1,0 +1,15 @@
+# 🥒 Estruturação Gherkin (BDD)
+
+Neste diretório estão os arquivos '.feature' contendo cenários de teste escritos em **Gherkin**.
+
+## 📚 Estrutura
+* Título da Funcionalidde;
+* Descrição da Funcionalidade / História de Usuário ('Como', 'Quero' e 'Para');
+* Mapeamento de Cenários Cobrindo Fluxos Principais e Alternativos;
+* Cenários Estruturados com 'Dado', 'Quando' e 'Então';
+* Esquema de Usuário com Exemplos.
+
+## 📝 Arquivos
+* 'login-plataforma.feature' - Cenários de validação com credenciais válidas e inválidas 
+* 'cadastro-plataforma.feature' - Cenários de validação de dados obrigatórios para realização de cadastro 
+* 'configurar-carrinho.feature' - Cenários de configuração de especificidades para adicionar produtos ao carrinho
