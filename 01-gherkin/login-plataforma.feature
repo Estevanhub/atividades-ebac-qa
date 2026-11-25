@@ -31,7 +31,7 @@ E a <senha>
 Então sou redirecionado para a tela de checkout
 
 Exemplos:
-  | e-mail                    |    senha    | tela de checkout |
-  | "gabriel@ebac.com.br"     |   "191221"  |        SIM       |
-  | "estevan@ebac.com.br"     |   "211219"  |        SIM       |
-  | "jesus@ebac.com.br"       |   "122119"  |        SIM       |
+  | e-mail                    |    senha    |
+  | "gabriel@ebac.com.br"     |   "191221"  |
+  | "estevan@ebac.com.br"     |   "211219"  |
+  | "jesus@ebac.com.br"       |   "122119"  |
