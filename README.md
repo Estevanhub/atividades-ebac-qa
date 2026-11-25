@@ -1,2 +1,3 @@
-# atividade-ebac-qa
-Exercícios do curso: Engenharia de Qualidade de Software da Ebac
+# 💻 Estudos e Atividades - Engenharia de Qualidade de Software - EBAC
+
+Repositório dedicado aos exercícios desenvolvidos durante minha formação em tecnologia. 
